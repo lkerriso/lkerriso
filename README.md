@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Legare (luh-gree) Kerrison!
 
-❤️ I'm a Developer Advocate at Red Hat working on open source AI tooling—think LLM fine-tuning, model demos, and developer enablement.
+❤️ I'm a Developer Advocate at Red Hat working on all things open source AI tooling.
 
-🧪 I'm especially focused on tools like InstructLab, vLLM, and Podman Desktop AI Lab.
+🧪 I'm especially focused on LLM fine-tuning, model demos, and developer enablement.
 
 🤞 [Asprational] I share quick demos on YouTube with my channel **[How Not What](https://www.youtube.com/@hownotwhat)** — built to show the _how_ behind building with AI, not just the _what_.
 
